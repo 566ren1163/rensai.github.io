@@ -1,0 +1,42 @@
+body {
+  padding: 64px;
+}
+
+h1 {
+  font-size: 40px;
+  background-color: #adff2f;
+  border: 1px solid green;
+  line-height: 48px;
+  text-align: center;
+}
+
+p {
+  color: red;
+  background-color: pink;
+  text-align: center;
+  font-style: normal;
+  margin-top: 0;
+}
+
+.container {
+  display: flex;
+   flex-direction: column;
+
+}
+
+.box1 {
+  background-color: skyblue;
+  border: 1px solid blue;
+  height: 30px;
+}
+.box2 {
+  background-color: rgb(144, 195, 216);
+  border: 1px solid blue;
+  height: 30px;
+}
+.box3 {
+  background-color: rgb(197, 234, 249);
+  border: 1px solid blue;
+  height: 30px;
+}
+
